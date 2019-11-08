@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Sansa",
+      "image": "/sansa.png"
+
+    },
+    {
+      "id": 2,
+      "name": "Arya",
+      "image": "/arya.jpeg"
+
+    },
+    {
+      "id": 3,
+      "name": "Bran",
+      "image": "/bran.png"
+
+    },
+    {
+      "id": 4,
+      "name": "Cersei",
+      "image": "/cersei.png"
+     
+    },
+    {
+      "id": 5,
+      "name": "Daenerys",
+      "image": "/daenerys.jpeg"
+    
+    },
+    {
+      "id": 6,
+      "name": "Hodor",
+      "image": "/hodor.jpeg"
+     
+    },
+    {
+      "id": 7,
+      "name": "Jamie",
+      "image": "/jammie.jpeg"
+     
+    },
+    {
+      "id": 8,
+      "name": "Jon",
+      "image": "/jon.jpg"
+     
+    },
+    {
+      "id": 9,
+      "name": "KhalDrogo",
+      "image": "/khaldrogo.jpeg"
+     
+    },
+    {
+      "id": 10,
+      "name": "Ramsay",
+      "image": "/ramsay.jpeg"
+    
+    },
+    {
+      "id": 11,
+      "name": "Theon",
+      "image": "/theon.jpg"
+      
+    },
+    {
+      "id": 12,
+      "name": "Tyrion",
+      "image": "/tyrion.jpeg"
+   
+    }
+  ]
+  
